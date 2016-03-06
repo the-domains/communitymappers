@@ -1,14 +1,26 @@
-layout_spectrum: 0.5286738
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1487455
 color:
   saturation: 0.321447
-  lightness: 0.2121054
   brandStrength: 1
+  lightness: 0.2121054
   brandColors:
     - '#FFFFFF'
     - '#5A6555'
     - '#BDBFBC'
     - '#313939'
     - '#999993'
-  rhythmicContrast: 0.8378242
-typography_spectrum: 0.6507641
+  rhythmicContrast: 1
+layout_spectrum: 0
 name: CommunityMappers
