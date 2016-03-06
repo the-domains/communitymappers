@@ -1,0 +1,14 @@
+layout_spectrum: 0.5286738
+color:
+  saturation: 0.321447
+  lightness: 0.2121054
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#5A6555'
+    - '#BDBFBC'
+    - '#313939'
+    - '#999993'
+  rhythmicContrast: 0.8378242
+typography_spectrum: 0.6507641
+name: CommunityMappers
