@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1487455
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7885305
 color:
   saturation: 0.321447
   brandStrength: 1
   lightness: 0.2121054
   brandColors:
     - '#FFFFFF'
-    - '#5A6555'
-    - '#BDBFBC'
-    - '#313939'
-    - '#999993'
+    - '#6E6F6E'
+    - '#B4B5B3'
+    - '#0C0E16'
+    - '#88CFFF'
   rhythmicContrast: 1
-layout_spectrum: 0
+layout_spectrum: 0.4946237
 name: CommunityMappers
